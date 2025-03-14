@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sparkle (Instrumental Only).mp3-7c0dad6b5f8368aceb4dc9b7a13f3791.mp3str"
+
+[deps]
+
+source_file="res://assets/Sparkle (Instrumental Only).mp3"
+dest_files=[ "res://.import/Sparkle (Instrumental Only).mp3-7c0dad6b5f8368aceb4dc9b7a13f3791.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
